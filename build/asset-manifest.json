@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8c83b28f.css",
-    "main.js": "/static/js/main.dc412f4d.js",
+    "main.js": "/static/js/main.e25e31f4.js",
     "static/media/Babor Bhai UP III (1)zz.jpg": "/static/media/Babor Bhai UP III (1)zz.d89115af079b737b5d5e.jpg",
     "static/media/Babor Bhai 3d Up III (000.jpg": "/static/media/Babor Bhai 3d Up III (000.d0335990e8943bcad967.jpg",
     "static/media/DALE-2.jpeg": "/static/media/DALE-2.4b12522f34df58560061.jpeg",
@@ -74,10 +74,10 @@
     "static/media/p1.png": "/static/media/p1.dadc32bfcdfa163b881c.png",
     "index.html": "/index.html",
     "main.8c83b28f.css.map": "/static/css/main.8c83b28f.css.map",
-    "main.dc412f4d.js.map": "/static/js/main.dc412f4d.js.map"
+    "main.e25e31f4.js.map": "/static/js/main.e25e31f4.js.map"
   },
   "entrypoints": [
     "static/css/main.8c83b28f.css",
-    "static/js/main.dc412f4d.js"
+    "static/js/main.e25e31f4.js"
   ]
 }

@@ -45,7 +45,7 @@ class ContactInfo extends React.Component {
                             <br />
                             State/Province: Chittagong <br />
                             Country: BD <br />
-                            Postal Code: 4224 <br />
+                            Postal Code: 4000 <br />
                             Phone: +880 2865591 <br />
                             Email: leaproperties@gmail.com
                           </p>
@@ -80,7 +80,7 @@ class ContactInfo extends React.Component {
                             <br />
                             State/Province: Chittagong <br />
                             Country: BD <br />
-                            Postal Code: 4224 <br />
+                            Postal Code: 4000 <br />
                             Phone: +880 2865591, +880 1714-946170, +880 1819986902 <br />
                             Email: daluarhossan1977@gmail.com
                           </p>
